@@ -1,7 +1,8 @@
 # "Simon Says" web game.
 
-#### Implemetation
+#### Process
 The page uses JS and Jquery.
+In the begionning of this project I came up with a more complex and redundant implemetation of the game logic, when I figured out an easier implementaion I commented out the original code and moved it to the bottom of the page. Those redundandancies in the original code better show logic behing the game.  
 
 #### Challenged by [The London App Brewery](https://www.appbrewery.co)
 #### Coded by Dennis Rotnov
