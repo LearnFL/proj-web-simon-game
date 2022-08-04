@@ -26,14 +26,18 @@ body {
   border-radius: 20%;
 }
 
-@media screen and (max-width: 1025px){
+@media screen and (max-width: 1150px){
   .btn {
     height: 150px;
     width: 150px;
   }
+
+  .container {
+    width: 65%;
+  }
 }
 
-@media screen and (max-width: 690px){
+@media screen and (max-width: 750px){
   .btn {
     height: 100px;
     width: 100px;
@@ -43,7 +47,7 @@ body {
   .container {
     width: 90%;
   }
-  
+
   #level-title {
     font-size: 2rem;
   }
