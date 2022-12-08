@@ -5,6 +5,7 @@ The page uses JS and Jquery.
 In the beginning of this project I came up with a more complex and redundant implemetation of the game logic, when I figured out an easier implementaion I commented out the original code and moved it to the bottom of the page. Those redundandancies in the original code better show logic behing the game.  
 
 #### Challenged by [The London App Brewery](https://www.appbrewery.co)
+#### Copyright by London App Brewery.
 #### Coded by Dennis Rotnov
 ### [See live page](https://learnfl.github.io/proj-web-simon-game/)
 
